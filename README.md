@@ -10,7 +10,7 @@ I am passionate about technology, coding, and open-source contributions. I am al
 
 ## 📫 How to Reach Me
 - **Email**: [your-erkinovtemur48@gmail.com](mailto:erkinovtemur48@gmail.com)
-- **Instagram**: [@your-Instagram-handle]((https://www.instagram.com/erkinov.0212/))
+- **Instagram**: [@your-instagram-handle]((https://www.instagram.com/erkinov.0212/))
 
 
 
