@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @temur0212
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm @temur0212 👋
 
-<!---
-temur0212/temur0212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 About Me
+I am passionate about technology, coding, and open-source contributions. I am always eager to learn new things and expand my knowledge in various programming languages and frameworks.
+
+## 🌱 Currently Learning
+- Exploring advanced concepts in **Laravel** and **PHP**.
+- Diving deeper into **Java**, especially **Spring RECT** and **Spring security**.
+
+
+## 📫 How to Reach Me
+- **Email**: [your-erkinovtemur48@gmail.com](mailto:erkinovtemur48@gmail.com)
+- **Instagram**: [@your-Instagram-handle]((https://www.instagram.com/erkinov.0212/))
+
+
+
