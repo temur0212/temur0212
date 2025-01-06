@@ -1,4 +1,4 @@
-# Hi there, I'm @temur0212 👋
+# Hi there, I'm Temur Erkinov 👋
 
 ## 👀 About Me
 I am passionate about technology, coding, and open-source contributions. I am always eager to learn new things and expand my knowledge in various programming languages and frameworks.
